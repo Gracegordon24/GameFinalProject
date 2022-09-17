@@ -1,0 +1,2 @@
+# GameFinalProject
+Project Created: Spring 2021. This project consist mainly of Java and created with Java Processing. This is a game that is consisted of background, image , and sounds. Organization of the project: I was responsible for the main class (help gluing the parts) and the menu of the class extension. Briyanah was responsible for the function of the game character. Shelby was responsible for the game levels and both put together the attachment of those elements. Together we were able to put the game together and running it from a raspberry pi.  
